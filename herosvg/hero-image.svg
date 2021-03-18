@@ -1,0 +1,12 @@
+<svg width="600" height="600" viewBox="0 0 600 600">
+  <g id="hero-image" transform="translate(-980 -273)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="150" height="150" rx="21" transform="translate(1280 273)" fill="#303841"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="150" height="150" rx="21" transform="translate(1280 573)" fill="#303841"/>
+    <rect id="Rectangle_8" data-name="Rectangle 8" width="150" height="150" rx="21" transform="translate(1130 423)" fill="#eee"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="150" height="150" rx="21" transform="translate(1130 723)" fill="#eee"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="150" height="150" rx="21" transform="translate(980 573)" fill="#eee" opacity="0.33"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="150" height="150" rx="21" transform="translate(1430 423)" fill="#303841" opacity="0.33"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="75" cy="75" r="75" transform="translate(1280 423)" fill="#00e5ff"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="75" cy="75" r="75" transform="translate(1130 573)" fill="#f6a10e"/>
+  </g>
+</svg>
